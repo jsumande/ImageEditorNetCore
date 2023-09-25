@@ -1,0 +1,9 @@
+﻿@{
+    byte[] FileBytes = null;
+    if (ViewData["FILEDATA"] != null)
+    {
+        FileBytes = (byte[])ViewData["FILEDATA"];
+    }
+}
+
+<img src="data:image/png;base64,@Convert.ToBase64String(FileBytes)"  id="img-container" />

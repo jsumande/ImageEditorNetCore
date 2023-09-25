@@ -1,0 +1,120 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+<style>
+    #preview {
+        background-image: url('@Url.Content("~/dist/grid.jpg")');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+
+    #output {
+        background-image: url('@Url.Content("~/dist/grid.jpg")');
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+</style>
+<div class="text-center">
+        <p class="text">Image Background Removal</p>
+        <p>
+            Upload an image to remove Background
+            <div class="upload-form">
+            <form asp-action="Upload" asp-controller="Home" id="frmUpload" method="POST"
+                      enctype="multipart/form-data">
+                <input type="file" name="file" id="file" onchange="isImage();" />
+                    <button type="button" id="btnSumbit" value="Submit">Submit</button>
+                </form>
+            </div>
+
+            <div class="container-fluid" >
+                <div class="row">
+                    <div class="col-md-6"> Preview
+                    <div id="preview" style="height:700px;">
+                        <div class="mx-auto text-center">
+                            <img class="img-fluid" id="userAvatar">
+                        </div>
+                    </div>
+                    </div>
+                <div class="col-md-6"> Output
+                    <div id="output" style="height:700px;">
+                        <div class="mx-auto text-center">
+                            <div id="container-report-filter"></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+           
+            </div>
+</div>
+@section Scripts{
+   <script type="text/javascript">
+       function PreviewImage() {
+           var oFReader = new FileReader();
+           oFReader.readAsDataURL(document.getElementById("file").files[0]);
+
+           oFReader.onload = function (oFREvent) {
+               document.getElementById("userAvatar").src = oFREvent.target.result;
+           }
+       }
+
+        function PreviewImageOutput() {
+            var oFReader = new FileReader();
+            oFReader.readAsDataURL(document.getElementById("file").files[0]);
+
+            oFReader.onload = function (oFREvent) {
+                document.getElementById("userAvatar").src = oFREvent.target.result;
+            }
+        }
+            function isImage() {
+
+                var fileName = document.getElementById("file").value;
+                var idxDot = fileName.lastIndexOf(".") + 1;
+
+                var extFile = fileName.substr(idxDot, fileName.length).toLowerCase();
+                if (extFile == "jpg" || extFile == "jpeg" || extFile == "png") {
+                    PreviewImage();
+                }
+                else {
+                    alert("Invalid file");
+                    document.getElementById("file").value = "";
+                    return;
+                }
+            }
+
+
+    </script>
+    <script>
+        $('#btnSumbit').on('click', function () {
+
+           var formdata = new FormData($("#frmUpload")[0]);
+          $.ajax({
+            url: '@Url.Action("Upload", "Home")',
+            type: 'POST',
+            data: formdata,
+            processData: false,
+            contentType: false,
+            success: function (response)
+            {
+                    console.log(response)
+                if (!response.Error)
+                {
+
+                        $('#container-report-filter').load('@Url.Action("Output", "Home")');
+                }
+                else
+                {
+                   
+                }
+            },
+            error: function (reponse)
+            {
+                app.SwalErrorMsg(reponse.StatusText);
+            }
+          });
+    });
+
+    function LoadOutput() {
+        $('#container-report-filter').load('@Url.Action("Output", "Home")');
+    }
+    </script>
+}

@@ -1,0 +1,1913 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\ImageEditor.bundle.scp.css",
+      "PackagePath": "staticwebassets\\ImageEditor.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\dist\\fenny.jpg",
+      "PackagePath": "staticwebassets\\dist\\fenny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\dist\\grid.jpg",
+      "PackagePath": "staticwebassets\\dist\\grid.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\img\\fenny.jpg",
+      "PackagePath": "staticwebassets\\img\\fenny.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\js\\eraser_brush.mixin.js",
+      "PackagePath": "staticwebassets\\js\\eraser_brush.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\js\\fabric.js",
+      "PackagePath": "staticwebassets\\js\\fabric.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\3.6.3-fabric.min.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\3.6.3-fabric.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-FileSaver.min.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-FileSaver.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-backgroundlayer.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-backgroundlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-bootstrap.min.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-canvas-toBlob.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-canvas-toBlob.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-editor.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-editor.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-eventdispather.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-eventdispather.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-exif.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-exif.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-foregroundlayer.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-foregroundlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-imagelayer.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-imagelayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-jquery.min.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-layer.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-layer.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-layersview.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-layersview.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-masklayer.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-masklayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-model.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-model.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-neweditor.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-neweditor.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-newscript.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-newscript.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-rect.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-rect.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-recttracker.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-recttracker.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-scribblelayer.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-scribblelayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-shadowlayer.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-shadowlayer.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-undostack.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-undostack.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\jseditor\\js\\js-utils.js",
+      "PackagePath": "staticwebassets\\jseditor\\js\\js-utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.bithoundrc",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.bithoundrc"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.editorconfig",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.editorconfig"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.eslintrc.json"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.eslintrc_tests",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.eslintrc_tests"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.gitignore",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.gitignore"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.gitpod.yml",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.gitpod.yml"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.npmignore",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.npmignore"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\.npmrc",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\.npmrc"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\CODE_OF_CONDUCT.md",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\CODE_OF_CONDUCT.md"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\CONTRIBUTING.md",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\CONTRIBUTING.md"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\HEADER.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\HEADER.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\fabric.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\README.md",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\SECURITY.md",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\bower.json",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\bower.json"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\build.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\build.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\dist\\fabric.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\dist\\fabric.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\dist\\fabric.min.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\dist\\fabric.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\lib\\aligning_guidelines.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\lib\\aligning_guidelines.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\lib\\centering_guidelines.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\lib\\centering_guidelines.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\lib\\event.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\lib\\event.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\lib\\google_closure_compiler.jar",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\lib\\google_closure_compiler.jar"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\lib\\screenshot.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\lib\\screenshot.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\lib\\yuicompressor-2.4.6.jar",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\lib\\yuicompressor-2.4.6.jar"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\old-travis-reference.yml",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\old-travis-reference.yml"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\package-lock.json",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\package.json",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\publish-next.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\publish-next.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\publish.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\publish.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\brushes\\base_brush.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\brushes\\base_brush.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\brushes\\circle_brush.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\brushes\\circle_brush.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\brushes\\pattern_brush.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\brushes\\pattern_brush.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\brushes\\pencil_brush.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\brushes\\pencil_brush.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\brushes\\spray_brush.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\brushes\\spray_brush.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\canvas.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\canvas.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\color.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\color.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\control.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\control.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\controls.actions.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\controls.actions.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\controls.render.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\controls.render.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\elements_parser.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\elements_parser.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\2d_backend.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\2d_backend.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\base_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\base_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\blendcolor_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\blendcolor_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\blendimage_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\blendimage_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\blur_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\blur_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\brightness_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\brightness_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\colormatrix_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\colormatrix_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\composed_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\composed_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\contrast_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\contrast_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\convolute_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\convolute_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\filter_boilerplate.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\filter_boilerplate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\filter_generator.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\filter_generator.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\gamma_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\gamma_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\grayscale_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\grayscale_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\hue_rotation.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\hue_rotation.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\invert_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\invert_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\noise_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\noise_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\pixelate_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\pixelate_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\removecolor_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\removecolor_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\resize_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\resize_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\saturate_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\saturate_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\vibrance_filter.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\vibrance_filter.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\filters\\webgl_backend.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\filters\\webgl_backend.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\globalFabric.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\globalFabric.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\gradient.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\gradient.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\intersection.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\intersection.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\log.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\log.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\animation.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\animation.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\canvas_dataurl_exporter.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\canvas_dataurl_exporter.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\canvas_events.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\canvas_events.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\canvas_gestures.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\canvas_gestures.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\canvas_grouping.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\canvas_grouping.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\canvas_serialization.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\canvas_serialization.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\collection.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\collection.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\default_controls.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\default_controls.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\eraser_brush.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\eraser_brush.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\itext.svg_export.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\itext.svg_export.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\itext_behavior.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\itext_behavior.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\itext_click_behavior.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\itext_click_behavior.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\itext_key_behavior.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\itext_key_behavior.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\object.svg_export.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\object.svg_export.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\object_geometry.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\object_geometry.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\object_interactivity.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\object_interactivity.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\object_origin.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\object_origin.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\object_stacking.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\object_stacking.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\object_straightening.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\object_straightening.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\observable.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\observable.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\shared_methods.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\shared_methods.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\stateful.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\stateful.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\mixins\\text_style.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\mixins\\text_style.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\parser.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\parser.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\pattern.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\pattern.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\point.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\point.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shadow.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shadow.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\active_selection.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\active_selection.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\circle.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\circle.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\ellipse.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\ellipse.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\group.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\group.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\image.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\image.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\itext.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\itext.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\line.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\line.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\object.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\object.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\path.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\path.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\polygon.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\polygon.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\polyline.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\polyline.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\rect.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\rect.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\text.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\text.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\textbox.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\textbox.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\shapes\\triangle.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\shapes\\triangle.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\static_canvas.class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\static_canvas.class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\anim_ease.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\anim_ease.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\animate.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\animate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\animate_color.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\animate_color.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\dom_event.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\dom_event.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\dom_misc.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\dom_misc.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\dom_request.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\dom_request.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\dom_style.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\dom_style.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\lang_array.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\lang_array.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\lang_class.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\lang_class.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\lang_object.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\lang_object.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\lang_string.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\lang_string.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\misc.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\misc.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\named_accessors.mixin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\named_accessors.mixin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\src\\util\\path.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\src\\util\\path.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\Ubuntu-Bold.ttf",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\Ubuntu-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\Ubuntu-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\Ubuntu-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\Ubuntu-Italic.ttf",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\Ubuntu-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\Ubuntu-Regular.ttf",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\Ubuntu-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\car.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\car.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\diet.jpeg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\diet.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\f_blue.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\f_blue.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\greyfloral.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\greyfloral.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\parrot.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\parrot.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\path.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\path.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\svg_with_rect.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\svg_with_rect.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\test_image.gif",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\test_image.gif"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\fixtures\\very_large_image.jpg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\fixtures\\very_large_image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\lib\\event.simulate.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\lib\\event.simulate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\lib\\pixelmatch.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\lib\\pixelmatch.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\lib\\visualCallbackQunit.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\lib\\visualCallbackQunit.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\lib\\visualTestLoop.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\lib\\visualTestLoop.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\node_test_setup.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\node_test_setup.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\activeselection.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\activeselection.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\animation.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\animation.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\brushes.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\brushes.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\canvas.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\canvas_events.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\canvas_events.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\canvas_static.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\canvas_static.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\circle.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\circle.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\collection.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\collection.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\color.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\color.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\controls_handlers.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\controls_handlers.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\ellipse.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\ellipse.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\gradient.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\gradient.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\group.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\group.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\header.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\header.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\image.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\image_filters.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\image_filters.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\intersection.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\intersection.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\itext.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\itext.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\itext_click_behaviour.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\itext_click_behaviour.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\itext_key_behaviour.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\itext_key_behaviour.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\line.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\line.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\object.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\object.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\object_clipPath.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\object_clipPath.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\object_geometry.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\object_geometry.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\object_interactivity.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\object_interactivity.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\object_origin.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\object_origin.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\observable.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\observable.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\parser.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\parser.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\path.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\path.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\path_utils.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\path_utils.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\pattern.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\pattern.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\point.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\point.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\polygon.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\polygon.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\polyline.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\polyline.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\rect.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\rect.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\shadow.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\shadow.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\stateful.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\stateful.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\text.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\text.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\text_to_svg.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\text_to_svg.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\textbox.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\textbox.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\unit\\util.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\unit\\util.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\177.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\177.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\arc1.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\arc1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\arc2.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\arc2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\arc3.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\arc3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\clippath-5.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\clippath-5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\clippath-6.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\clippath-6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\clippath-7.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\clippath-7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\clippath-8.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\clippath-8.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\clippath-9.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\clippath-9.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\cs.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\cs.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\emoji-b.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\emoji-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\generic-path.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\generic-path.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\gold-logo.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\gold-logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\image-rendering-attr.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\image-rendering-attr.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\nested-svgs.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\nested-svgs.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\notoemoji-person.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\notoemoji-person.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\qt.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\qt.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg-missing-images.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg-missing-images.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg-with-no-dim-rect.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg-with-no-dim-rect.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_1.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_2.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_3.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_4.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_5.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_6.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_7.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_8.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_8.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_9.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_linear_9.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_missing_clippath.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_missing_clippath.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_1.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_10.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_10.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_11.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_11.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_12.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_12.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_13.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_13.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_2.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_3.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_4.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_5.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_6.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_8.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_8.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_9.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_radial_9.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_1.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_2.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_3.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_4.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_4.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_5.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_5.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_6.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_6.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_7.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_7.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_8.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_stroke_8.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\svg_text_letterspacing.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\svg_text_letterspacing.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\assets\\vector-effect.svg",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\assets\\vector-effect.svg"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\clippath.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\clippath.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\control_rendering.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\control_rendering.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\freedraw.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\freedraw.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\generic_rendering.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\generic_rendering.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\goldenMaker.html",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\goldenMaker.html"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\177.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\177.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\arc1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\arc1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\arc2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\arc2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\arc3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\arc3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\backgroundWithGradient.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\backgroundWithGradient.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\backgroundWithGradientZoom.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\backgroundWithGradientZoom.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\canvasPattern.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\canvasPattern.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\canvasPatternMultiplier.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\canvasPatternMultiplier.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clippath-5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clippath-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clippath-6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clippath-6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clippath-7.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clippath-7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clippath-8.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clippath-8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clippath-9.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clippath-9.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping0.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping0.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping01.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping01.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping10.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping10.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping12.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping12.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping13.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping13.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping7.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping8.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\clipping9.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\clipping9.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls10.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls10.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls11.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls11.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls12.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls12.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls7.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls8.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\controls9.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\controls9.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\cs.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\cs.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl10.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl10.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl12.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl12.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl13.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl13.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl14.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl14.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl15.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl15.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl16.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl16.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl31.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl31.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\dataurl7.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\dataurl7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\emoji-b.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\emoji-b.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\freedrawing1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\freedrawing1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\freedrawing2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\freedrawing2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\freedrawing3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\freedrawing3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\freedrawing4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\freedrawing4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\freedrawing5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\freedrawing5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\freedrawing6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\freedrawing6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\generic-path.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\generic-path.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\generic1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\generic1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\gold-logo.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\gold-logo.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\gradientStroke.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\gradientStroke.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\group-svg-1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\group-svg-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\image-rendering-attr.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\image-rendering-attr.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\imageSoothingOnObject.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\imageSoothingOnObject.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\multipleGradients.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\multipleGradients.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\nested-svgs.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\nested-svgs.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\notoemoji-person.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\notoemoji-person.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\objectsInActiveSelections.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\objectsInActiveSelections.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\parrot.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\parrot.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\parrotblend.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\parrotblend.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\parrotblend2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\parrotblend2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\parrotxy.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\parrotxy.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\pathWithGradient.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\pathWithGradient.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\pathWithGradientSvg.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\pathWithGradientSvg.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\polygonWithStroke.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\polygonWithStroke.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\qt.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\qt.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\shadownonscaling.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\shadownonscaling.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg-missing-images.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg-missing-images.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg-with-no-dim-rect.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg-with-no-dim-rect.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_7.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_8.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_9.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_linear_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_missing_clippath.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_missing_clippath.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_10.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_10.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_11.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_11.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_12.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_12.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_13.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_13.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_8.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_9.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_radial_9.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_7.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_8.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_stroke_8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\svg_text_letterspacing.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\svg_text_letterspacing.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text10.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text10.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text11.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text11.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text12.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text12.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text13.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text13.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text7.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text7.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text8.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text8.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\text9.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\text9.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\textGradientFill.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\textGradientFill.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\textpath1.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\textpath1.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\textpath2.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\textpath2.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\textpath3.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\textpath3.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\textpath4.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\textpath4.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\textpath5.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\textpath5.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\textpath6.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\textpath6.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\golden\\vector-effect.png",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\golden\\vector-effect.png"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\resize_filter.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\resize_filter.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\svg_import.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\svg_import.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\text.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\text.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\text_path.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\text_path.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\toDataURL.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\toDataURL.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\test\\visual\\z_svg_export.js",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\test\\visual\\z_svg_export.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\testem-visual.json",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\testem-visual.json"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\testem.json",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\testem.json"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\fabric.js\\tests.mustache",
+      "PackagePath": "staticwebassets\\lib\\fabric.js\\tests.mustache"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Ran\\Documents\\GitHub\\ImageEditorNetCore\\ImageEditor\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ImageEditor.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ImageEditor.props",
+      "PackagePath": "build\\ImageEditor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ImageEditor.props",
+      "PackagePath": "buildMultiTargeting\\ImageEditor.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ImageEditor.props",
+      "PackagePath": "buildTransitive\\ImageEditor.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
